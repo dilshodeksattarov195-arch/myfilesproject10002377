@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdpdate",
+        "uuid": 5547918,
+        "checksum": "jlys6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
